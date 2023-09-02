@@ -9,7 +9,7 @@
 
   ![Screenshot (324)](https://github.com/Aniyo44/news-app/assets/109015835/6c8a44cf-a14f-4172-86b6-1033e45aeb0a)
 
-   <p> a game that display a random word related to a country and users try to guess which one from a list of countries .</p>
+   <p> News app i made with tkinter and Selenium ,it takes headlines ,images and articles links from my local news website then display it .</p>
 
 
    </div>
