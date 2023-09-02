@@ -2,7 +2,7 @@
 <div align="center">
 
  <h1>    News app  </h1>
-    ![Screenshot (322)](https://github.com/Aniyo44/news-app/assets/109015835/156f5569-ce1e-4f47-bbb2-b53be698ec09)
+  ![Screenshot (322)](https://github.com/Aniyo44/news-app/assets/109015835/156f5569-ce1e-4f47-bbb2-b53be698ec09)
          
   ![Screenshot (323)](https://github.com/Aniyo44/news-app/assets/109015835/cb897209-66d3-450c-a7d7-9f16a05a5d54)
 
